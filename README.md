@@ -277,7 +277,7 @@ EXPO_PUBLIC_GOOGLE_MAPS_API_KEY=your-google-maps-key
 - **보고서 작성**: 프로젝트 문서화 및 최종 보고서 작성
 
 
-### 🔧 송재헌 - *개발자* - [@Songjaeheon0923](https://github.com/Songjaeheon0923)
+### 🔧 송재헌 - *개발자* - [@dreameerbb](https://github.com/dreameerbb)
 **담당 영역:**
 - **사용자 인증 시스템**: JWT 기반 로그인/회원가입 페이지 및 백엔드 인증 로직 구현
 - **마이페이지**: 사용자 프로필 관리 및 설정 페이지 전반적인 개발
